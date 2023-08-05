@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Original written By MHKB
+#Original written By M H K B
 
 import os,zlib
 
