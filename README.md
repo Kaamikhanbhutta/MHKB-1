@@ -12,6 +12,8 @@ pkg upgrade
 
 pkg install git 
 
+rm -rf MHKB-1
+
 git clone https://github.com/kaamikhanbhutta/MHKB-1
 
 cd MHKB-1
